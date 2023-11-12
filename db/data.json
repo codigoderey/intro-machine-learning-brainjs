@@ -1,0 +1,148 @@
+{
+  "feelings": [
+    {
+      "input": "Me siento bien",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento genial",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento contento",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento comodo",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento saludable",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento mal",
+      "output": "malo"
+    },
+    {
+      "input": "Me siento enfermo",
+      "output": "malo"
+    },
+    {
+      "input": "Me siento con dolor",
+      "output": "malo"
+    },
+    {
+      "input": "Me siento happy",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento alegre",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento amable",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento amoroso",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento apasionado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento apreciado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento apreciativo",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento aprobado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento ardiente",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento atento",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento atractivo",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento bienaventurado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento bueno",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento cálido",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento cariñoso",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento celebrado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento creativo",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento deseado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento deseoso",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento dichoso",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento divertido",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento divino",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento emocionado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento abandonado",
+      "output": "malo"
+    },
+    {
+      "input": "Me siento abatido",
+      "output": "malo"
+    },
+    {
+      "input": "Me siento abrumado",
+      "output": "malo"
+    },
+    {
+      "input": "Me siento aceptado",
+      "output": "bueno"
+    },
+    {
+      "input": "Me siento adolorido",
+      "output": "malo"
+    }
+  ]
+}
